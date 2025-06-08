@@ -1,23 +1,21 @@
-# Seaway – 3D Isometric Ship Cargo-Delivery Game Prototype
+# Seaway – A Cozy 3D Isometric Cargo-Delivery Game Prototype (UNDER REWORK)
 
-# CURRENTLY UNDER COMPLETE REWORK
-
-## Intro
-Navigate treacherous waters in this cozy isometric prototype game where you captain a cargo ship through procedurally placed archipelagos. Each island boasts a unique silhouette - your challenge is to memorize their shapes and successfully deliver packages to matching destinations.
+## About the game
+Set sail on a charming oceanic journey in Seaway, a 3D isometric cargo-delivery game where you play as a ship captain navigating vibrant procedurally generated archipelagos. Each island has a distinctive silhouette, your mission is to memorize their shapes, deliver packages to the correct destinations, and uncover the secrets of the open sea.
 
 Created by: Ula Jasiūnaitė
 
 ## Key Features:
 
-<b>Procedural Island Placement</b> – Each game start up feels fresh and avoids repetition by placing distinct looking islands in random but logical positions throughout the map
+<b>Procedural Island Placement</b> – No two voyages are the same! Islands are intelligently placed in unique layouts, ensuring fresh exploration every time you play.
 
-<b>Cargo Delivery Gameplay</b> – Match island shapes to complete objectives
+<b>Cargo Delivery Gameplay</b> – Match island shapes to fulfill delivery requests and keep the local economy thriving.
 
-<b>Fishing</b> - Succeed quick time events to capture fish. Sell them to the local fish merchants!
+<b>Fishing</b> - Take a break from sailing and test your reflexes with quick-time fishing events. Sell your catch to island merchants for extra rewards!
 
-<b>Lost Loot</b> - Sail the seas and discover lost loot and mysteries that they hold
+<b>Lost Loot</b> - Discover sunken loot and treasures hidden across the waves.
 
-<b>Isometric 3D Art Style</b> – A clean, visually engaging world
+<b>Isometric 3D Art Style</b> – A crisp, colorful world that invites you to unwind and enjoy the journey.
 
 ## Gameplay Footage:
 
